@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "PLANET DANCE（Duet Version）",
+  "base_artist": "FIRE BOMBER",
+  "createdAt": "2025-12-01T18:24:32.009669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PLANET DANCE(Duet Version)",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/01_PLANET_DANCE(Duet_Version)_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Planet Dance (Duet Version)",
+      "artist": "Fire Bomber",
+      "has_synced": false,
+      "path": "select/02_Planet_Dance_(Duet_Version)_Fire_Bomber.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PLANET DANCE ~Duet Version~",
+      "artist": "Fire Bomber",
+      "has_synced": false,
+      "path": "select/03_PLANET_DANCE_~Duet_Version~_Fire_Bomber.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PLANET DANCE [Duet Version]",
+      "artist": "Fire Bomber",
+      "has_synced": false,
+      "path": "select/04_PLANET_DANCE_[Duet_Version]_Fire_Bomber.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PLANET DANCE（Duet Version）",
+      "artist": "FIRE BOMBER",
+      "has_synced": true,
+      "path": "select/05_PLANET_DANCE(Duet_Version)_FIRE_BOMBER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PLANET DANCE ［Duet Version］",
+      "artist": "Fire Bomber",
+      "has_synced": true,
+      "path": "select/06_PLANET_DANCE_[Duet_Version]_Fire_Bomber.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PLANET DANCE [Duet Version]",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_01_PLANET_DANCE_[Duet_Version]_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "PLANET DANCE [Duet Version]",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_02_PLANET_DANCE_[Duet_Version]_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "PLANET DANCE [Duet Version]",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_03_PLANET_DANCE_[Duet_Version]_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "PLANET DANCE [Duet Version]",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_04_PLANET_DANCE_[Duet_Version]_FIRE_BOMBER.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "PLANET DANCE (Duet Version)",
+      "artist": "FIRE BOMBER",
+      "has_synced": false,
+      "path": "select/pl_05_PLANET_DANCE_(Duet_Version)_FIRE_BOMBER.txt"
+    }
+  ]
+}
